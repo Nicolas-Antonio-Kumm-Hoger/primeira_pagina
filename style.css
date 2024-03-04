@@ -1,0 +1,27 @@
+h2{
+    text-align: center;
+}
+header{
+    background-color: rgb(0, 80, 185);
+}
+/*body{
+    background-color: darkgoldenrod;
+}*/
+footer{
+    background-color: darkslategrey;
+}
+.ltp{
+    width: 100px;
+}
+.body{
+    width: 300px;
+}
+.body2{
+    width: 200px;
+}
+.body1{
+    width: 265px;
+}
+.footer{
+    width: 100px;
+}
